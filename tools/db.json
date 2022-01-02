@@ -1,0 +1,26 @@
+{
+  "courses": [
+    {
+      "id": 15,
+      "slug": "asdasd",
+      "title": "asdasd",
+      "authorId": 1,
+      "category": "asdasdasd",
+      "createdAt": 1641120621642
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
